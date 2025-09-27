@@ -1,6 +1,7 @@
 # Data-Analytics-Dashboard-2
 
-<img width="1152" height="864" alt="image" src="https://github.com/user-attachments/assets/eb56875b-e521-418a-8900-9dbd02b86115" />
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/dc2a82e6-000a-49a6-8189-65a397ed86b0" />
+
 
 
 
