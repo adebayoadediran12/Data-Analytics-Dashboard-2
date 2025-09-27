@@ -11,6 +11,7 @@ Subscribers can access content via mobile phones, desktop computers, and smart T
 NaijaStream’s mission is to provide engaging content while leveraging data-driven strategies to enhance user experience and maximize retention.
 
 **Key Characteristics of NaijaStream**
+
 • Subscription-based model offering Basic, Standard, and Premium tiers to suit diverse needs and budgets.
 
 • Wide geographical reach across Nigeria’s four major regions.
@@ -22,6 +23,7 @@ NaijaStream’s mission is to provide engaging content while leveraging data-dri
 • High churn rate of approximately 49%, posing significant business challenges.
 
 **Major Problems Facing NaijaStream**
+
 NaijaStream’s rapid growth has been accompanied by key challenges:
 
 • High churn rate of 49.35%, meaning nearly half of users discontinue subscriptions.
