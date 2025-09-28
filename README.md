@@ -1,4 +1,4 @@
-# Data-Analytics-Dashboard-2
+# Data-Analytics-Dashboard-2-NaijaStream-Project
 
 <img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/dc2a82e6-000a-49a6-8189-65a397ed86b0" />
 
